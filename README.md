@@ -8,5 +8,5 @@
  # How play ?
   If you have the Pico 8 software just download the file and run it.
   
-  else you can play it on [ici](http://pandaroux.space/game/pioupiou.html)
+  else you can play it on [here](http://pandaroux.space/game/pioupiou.html)
   
