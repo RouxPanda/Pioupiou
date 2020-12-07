@@ -1,13 +1,12 @@
 # Pioupiou
   First game on Pico 8 and first serious project. The name is a word game in French, it's really funny, I swear.
-
-# Concept
-  A chick capable of firing a pistol must counter an alien invasion and escape from a mysterious planet. Game seen from above with magazine management etc...
   
-# Warning
-  I'm a beginner so my code is not the best. But i learn it's the important
+  This is the story of a chick with a gun who tries to find the magic compass held by the evil aliens.
+  The chick has the ability to shoot guns and reload.
+  
   
  # How play ?
   If you have the Pico 8 software just download the file and run it.
   
-  Page itch.io soon
+  else you can play it on [ici](http://pandaroux.space/game/pioupiou.html)
+  
